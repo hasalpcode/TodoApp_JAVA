@@ -36,10 +36,10 @@ public class GestionTache {
                     listerTachesPrevues();
                     break;
                 case 8:
-                    System.out.println("Au revoir !");
+                    System.out.println("Programme ferme !");
                     break;
                 default:
-                    System.out.println("Choix invalide. Veuillez réessayer.");
+                    System.out.println("Choix invalide. Veuillez reessayer.");
                     break;
             }
 
